@@ -1,0 +1,13 @@
+Make a c++ code (only one program)
+1. create an integer array composing of 10 elements with values ranging from 20 - 60 (unsorted), display  the contents of the array using a for loop
+2. Make a stack and queue container that will store the content of the array both contain the smae.(one for each) (using insert function) after that, pop 3 times on both stacks. 
+then display (cout) contents of stack and queue. verify that the stack/queue/array contains elements
+3. merge the content of the stack and queue on one container(14 elements) stack first then queue (call it datamerging) then print the result
+4. make 4 sorting algorithm functions that can be called as a function that can sort the contents of datamerging
+(eg. can run the program on bubblesort 1st, then run it again but with quicksort)
+5. chrono function / between running the 4 sorting algorithm, estimate the time complexity of each sortng algorithm using chrono 
+in main, start,bubblesort function, end, ooutput tbubblesort time complexity, then start quicksort time complexity, 
+
+#include iostream
+#include vector
+using namespace std 
