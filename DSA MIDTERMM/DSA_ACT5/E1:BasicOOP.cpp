@@ -11,7 +11,7 @@ public:
 
 
 void display() {
-cout << "Name: " << name << ", Age: " << age << ", Year: " << year << endl;
+cout << "Name: " << name << ", Age: " << age << ", BirthYear: " << year << endl;
 }
 };
 int main() {
